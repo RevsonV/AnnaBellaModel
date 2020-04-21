@@ -1,2 +1,2 @@
 # AnnaBellaModel
-Fictionary website for a fictionary top model
+Website for a fictionary top model
